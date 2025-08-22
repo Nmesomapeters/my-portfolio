@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Nmesomapeters/my-portfolio/static/css/main.ad4bbdcc.css",
-    "main.js": "/Nmesomapeters/my-portfolio/static/js/main.942bbafc.js",
-    "static/js/453.438d9e50.chunk.js": "/Nmesomapeters/my-portfolio/static/js/453.438d9e50.chunk.js",
-    "static/media/profile.jpg": "/Nmesomapeters/my-portfolio/static/media/profile.1ef16318b91b7f96646b.jpg",
-    "static/media/portfolio.jpg": "/Nmesomapeters/my-portfolio/static/media/portfolio.a37da293391051dca301.jpg",
-    "static/media/mine.jpg": "/Nmesomapeters/my-portfolio/static/media/mine.98773a87adf5f68fb4f3.jpg",
-    "static/media/graphic1.jpg": "/Nmesomapeters/my-portfolio/static/media/graphic1.5983db4123c23065695c.jpg",
-    "static/media/truthscope.jpg": "/Nmesomapeters/my-portfolio/static/media/truthscope.85c4f4d219842530a320.jpg",
-    "static/media/ux-design.jpg": "/Nmesomapeters/my-portfolio/static/media/ux-design.67eb970f5f2d249a940e.jpg",
-    "static/media/crispy-care.jpg": "/Nmesomapeters/my-portfolio/static/media/crispy-care.23aa9439dae94ccde190.jpg",
-    "static/media/graphic2.jpg": "/Nmesomapeters/my-portfolio/static/media/graphic2.18d9fde5dc2ef4a40791.jpg",
-    "index.html": "/Nmesomapeters/my-portfolio/index.html",
-    "main.ad4bbdcc.css.map": "/Nmesomapeters/my-portfolio/static/css/main.ad4bbdcc.css.map",
-    "main.942bbafc.js.map": "/Nmesomapeters/my-portfolio/static/js/main.942bbafc.js.map",
-    "453.438d9e50.chunk.js.map": "/Nmesomapeters/my-portfolio/static/js/453.438d9e50.chunk.js.map"
+    "main.css": "/my-portfolio/static/css/main.ad4bbdcc.css",
+    "main.js": "/my-portfolio/static/js/main.72f7d462.js",
+    "static/js/453.438d9e50.chunk.js": "/my-portfolio/static/js/453.438d9e50.chunk.js",
+    "static/media/profile.jpg": "/my-portfolio/static/media/profile.1ef16318b91b7f96646b.jpg",
+    "static/media/portfolio.jpg": "/my-portfolio/static/media/portfolio.a37da293391051dca301.jpg",
+    "static/media/mine.jpg": "/my-portfolio/static/media/mine.98773a87adf5f68fb4f3.jpg",
+    "static/media/graphic1.jpg": "/my-portfolio/static/media/graphic1.5983db4123c23065695c.jpg",
+    "static/media/truthscope.jpg": "/my-portfolio/static/media/truthscope.85c4f4d219842530a320.jpg",
+    "static/media/ux-design.jpg": "/my-portfolio/static/media/ux-design.67eb970f5f2d249a940e.jpg",
+    "static/media/crispy-care.jpg": "/my-portfolio/static/media/crispy-care.23aa9439dae94ccde190.jpg",
+    "static/media/graphic2.jpg": "/my-portfolio/static/media/graphic2.18d9fde5dc2ef4a40791.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.ad4bbdcc.css.map": "/my-portfolio/static/css/main.ad4bbdcc.css.map",
+    "main.72f7d462.js.map": "/my-portfolio/static/js/main.72f7d462.js.map",
+    "453.438d9e50.chunk.js.map": "/my-portfolio/static/js/453.438d9e50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad4bbdcc.css",
-    "static/js/main.942bbafc.js"
+    "static/js/main.72f7d462.js"
   ]
 }
